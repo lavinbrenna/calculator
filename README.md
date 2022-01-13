@@ -1,6 +1,6 @@
 # Calculator App
 
-#### By Brenna Lavin and Jack Jones
+#### By Brenna Lavin,Seth West, Jack Jones, Ryan Spencer
 
 #### This app is a calculator app
 
